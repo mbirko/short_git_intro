@@ -3,8 +3,6 @@
 ## Here we will play around with git 
 Please enter some text below here: 
 
-Lets confligt
-
-
+But i dont want to confligt!
 
 But above this line! 
