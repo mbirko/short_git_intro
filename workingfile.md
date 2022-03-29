@@ -3,7 +3,7 @@
 ## Here we will play around with git 
 Please enter some text below here: 
 
-The terminal is the best way to use git!
-No, GUIS are mush betttter! 
+this is a text about how greats guis are!
+I promis it will be a good read!
 
 But above this line! 
